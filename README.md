@@ -1,3 +1,3 @@
 # Ball-Shooting-Game
-Desktop Application
+Desktop Application.
 Created using Java Applet. 
